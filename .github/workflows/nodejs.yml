@@ -32,12 +32,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - run: npm install
+      - run: npm run predeploy
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ../example/build  
-      - run: npm install
-      - run: npm run predeploy
+          publish_dir: example/build  
 
   publish-npm:
     needs: build
