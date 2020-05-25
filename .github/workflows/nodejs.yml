@@ -35,7 +35,7 @@ jobs:
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: example/build  
+          publish_dir: ../example/build  
       - run: npm install
       - run: npm run predeploy
 
