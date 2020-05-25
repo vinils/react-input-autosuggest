@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-input-autosuggest/static/css/main.9e24c1c7.chunk.css",
+    "main.css": "/react-input-autosuggest/static/css/main.b693b373.chunk.css",
     "main.js": "/react-input-autosuggest/static/js/main.202a1519.chunk.js",
     "main.js.map": "/react-input-autosuggest/static/js/main.202a1519.chunk.js.map",
     "runtime-main.js": "/react-input-autosuggest/static/js/runtime-main.aba11d86.js",
@@ -8,15 +8,15 @@
     "static/js/2.45d4bbe5.chunk.js": "/react-input-autosuggest/static/js/2.45d4bbe5.chunk.js",
     "static/js/2.45d4bbe5.chunk.js.map": "/react-input-autosuggest/static/js/2.45d4bbe5.chunk.js.map",
     "index.html": "/react-input-autosuggest/index.html",
-    "precache-manifest.0d3b71937974da3922909e4b6319b243.js": "/react-input-autosuggest/precache-manifest.0d3b71937974da3922909e4b6319b243.js",
+    "precache-manifest.d16f3b0f0559a4e73954d9f820f41de5.js": "/react-input-autosuggest/precache-manifest.d16f3b0f0559a4e73954d9f820f41de5.js",
     "service-worker.js": "/react-input-autosuggest/service-worker.js",
-    "static/css/main.9e24c1c7.chunk.css.map": "/react-input-autosuggest/static/css/main.9e24c1c7.chunk.css.map",
+    "static/css/main.b693b373.chunk.css.map": "/react-input-autosuggest/static/css/main.b693b373.chunk.css.map",
     "static/js/2.45d4bbe5.chunk.js.LICENSE.txt": "/react-input-autosuggest/static/js/2.45d4bbe5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.aba11d86.js",
     "static/js/2.45d4bbe5.chunk.js",
-    "static/css/main.9e24c1c7.chunk.css",
+    "static/css/main.b693b373.chunk.css",
     "static/js/main.202a1519.chunk.js"
   ]
 }
