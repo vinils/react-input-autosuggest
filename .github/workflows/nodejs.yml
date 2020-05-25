@@ -35,10 +35,11 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 12
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
       - run: npm install
       - run: npm run predeploy 
       - run: npm run deploy
+        env:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
 
   publish-npm:
     needs: build
