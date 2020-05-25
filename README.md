@@ -2,7 +2,7 @@
 
 > An atuo sugestion search box
 
-[![NPM](https://img.shields.io/npm/v/react-input-autosuggest.svg)](https://www.npmjs.com/package/react-input-autosuggest) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+![Node.js CI](https://github.com/vinils/react-input-autosuggest/workflows/Node.js%20CI/badge.svg) [![NPM](https://img.shields.io/npm/v/react-input-autosuggest.svg)](https://www.npmjs.com/package/react-input-autosuggest) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
