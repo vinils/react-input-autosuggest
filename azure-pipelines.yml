@@ -18,4 +18,6 @@ steps:
 - script: |
     npm install
     npm run build
+    npm run prepublish
+    npm run predeploy
   displayName: 'npm install and build'
