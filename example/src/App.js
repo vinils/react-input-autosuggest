@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 
 import InputAutoSuggest from 'react-input-autosuggest'
-import 'react-input-autosuggest/dist/index.css'
 import logo from './logo.svg';
 import './App.css';
 
