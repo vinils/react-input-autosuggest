@@ -2,11 +2,11 @@
 
 # react-input-autosuggest
 
-> An atuo sugestion search box
+> An atuo suggestion search box
 
-[![react-input-autosugest](https://github.com//vinils/react-input-autosugest/blob/releaseCandidate/public/sample.gif?raw=true)](https://github.com/vinils/react-input-autosugest/)
+[![react-input-autosuggest](https://github.com//vinils/react-input-autosuggest/blob/releaseCandidate/public/sample.gif?raw=true)](https://github.com/vinils/react-input-autosuggest/)
 
-Demo and playground available [here](https://vinils.github.io/react-input-autosugest/)
+Demo and playground available [here](https://vinils.github.io/react-input-autosuggest/)
 
 ## Install
 
@@ -19,12 +19,12 @@ npm install --save react-input-autosuggest
 ```jsx
 import React, { Component } from 'react'
 
-import InputAutoSugest from 'react-input-autosuggest'
+import InputAutoSuggest from 'react-input-autosuggest'
 import 'react-input-autosuggest/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <InputAutoSugest
+    return <InputAutoSuggest
               size="20"
               name="country"
               value={this.state.country}

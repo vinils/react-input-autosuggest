@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-import InputAutoSugest from 'react-input-autosuggest'
+import InputAutoSuggest from 'react-input-autosuggest'
 import 'react-input-autosuggest/dist/index.css'
 import logo from './logo.svg';
 import './App.css';
@@ -28,7 +28,7 @@ const App = () => {
     <center>
       Country:
       <br/>
-      <InputAutoSugest
+      <InputAutoSuggest
         style={{maxWidth: '165px'}}
         size="20"
         name="country"
