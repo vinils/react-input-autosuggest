@@ -1,10 +1,20 @@
 {
   "name": "react-input-autosuggest",
-  "version": "1.0.0-rc1",
+  "version": "1.0.0-rc2",
   "description": "An atuo sugestion search box",
-  "author": "vinils",
+  "author": {
+    "name": "vinils",
+    "email": "vini_ls@hotmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinils/react-input-autosuggest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vinils/react-input-autosuggest/issues/"
+  },
+  "homepage": "https://github.com/vinils/react-input-autosuggest/",
   "license": "MIT",
-  "repository": "vinils/react-input-autosuggest",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",

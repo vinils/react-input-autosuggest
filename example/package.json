@@ -1,6 +1,7 @@
 {
   "name": "react-input-autosuggest-example",
   "homepage": "https://vinils.github.io/react-input-autosuggest",
+  "description": "Sample page of react-input-autosuggest",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
