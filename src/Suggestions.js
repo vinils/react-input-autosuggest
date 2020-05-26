@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Sugestion from './Sugestion'
+import Sugestion from './Suggestion'
 
 const style = {
     position: 'absolute',

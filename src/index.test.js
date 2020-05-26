@@ -1,6 +1,6 @@
-import { ExampleComponent } from '.'
+import InputAutoSuggest from '.'
 
-describe('ExampleComponent', () => {
+describe('InputAutoSuggest', () => {
   it('is truthy', () => {
     expect(ExampleComponent).toBeTruthy()
   })

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Sugestion from './Sugestion';
-import Sugestions from './Sugestions'
+import Suggestion from './Suggestion';
+import Suggestions from './Suggestions'
 
 const InputCons = props => {
     return (
@@ -12,7 +12,7 @@ const InputCons = props => {
     ); 
 };
 
-class InputAutoSugest extends Component {
+class InputAutoSuggest extends Component {
     constructor (props) {
         super(props)
         this.state = {
@@ -168,15 +168,15 @@ class InputAutoSugest extends Component {
                   onKeyDown={this.handleOnKeyDown}
                   onBlur={this.handleOnBlur}/>
                   
-                <Sugestions
+                <Suggestions
                   style={this.props.style}
                   onClick={this.handleSelect}
                   activedIndex={activedIndex}>
                     {filteredData}
-                </Sugestions>
+                </Suggestions>
             </React.Fragment>
         );
     }
 }
 
-export default InputAutoSugest;
+export default InputAutoSuggest;

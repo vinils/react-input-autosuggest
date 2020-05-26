@@ -6,7 +6,7 @@
 
 [![react-input-autosugest](https://github.com//vinils/react-input-autosugest/blob/releaseCandidate/public/sample.gif?raw=true)](https://github.com/vinils/react-input-autosugest/)
 
-Demo and playground are available [here](https://vinils.github.io/react-input-autosugest/)
+Demo and playground available [here](https://vinils.github.io/react-input-autosugest/)
 
 ## Install
 
