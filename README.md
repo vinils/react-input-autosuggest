@@ -4,7 +4,7 @@
 
 > An atuo suggestion search box
 
-[![react-input-autosuggest](https://github.com//vinils/react-input-autosuggest/blob/releaseCandidate/public/sample.gif?raw=true)](https://github.com/vinils/react-input-autosuggest/)
+[![react-input-autosuggest](https://github.com//vinils/react-input-autosuggest/blob/master/public/sample.gif?raw=true)](https://github.com/vinils/react-input-autosuggest/)
 
 Demo and playground available [here](https://vinils.github.io/react-input-autosuggest/)
 
